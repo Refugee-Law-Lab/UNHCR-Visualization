@@ -9,7 +9,7 @@ Only data from 2000-2020 are included, partial datasets (e.g. 2021 data) have be
 For both data sets, only applications and decisions at the first instance (FI) and first instance and appeal (FA) stages of procedure were included. 
 
 Three main charts are created:
-1. A bar chart showing the top 10 countries applying for asylum in Canada over time from 2000-2020
+1. A bar chart showing the top 15 countries applying for asylum in Canada over time from 2000-2020
 2. A line graph showing the cumulative number of asylum applications in Canada over time from 2000-2020
 3. A line graph showing the application recognition rate in Canada over time from 2000-2020
 
@@ -38,4 +38,6 @@ jupyter-notebook == 6.4.3
 ipython == 7.16.1
 
 
-Special thanks to SSHRC for funding and UNHCR for making the data freely and easily accessible.
+Special thanks to UNHCR for making the data freely and easily accessible.
+
+This research was funded in part by the Social Sciences and Humanities Research Council of Canada.
