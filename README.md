@@ -2,7 +2,10 @@
 
 This repository contains python code to create visualizations of asylum application data, using data ulled from the United Nations High Commission for Refugees API. For details, see: https://api.unhcr.org/docs/refugee-statistics.html.
 
-# Asylum-Application-in-Canada 
+# Asylum Applications in Canada 
+
+Jupyter Notebook: asylum-applications-canada.ipynb
+Python: asylum-applications-canada.py
 
 This code creates mp4 videos containing animated graphs from asylum applications in Canada. 
 
@@ -16,7 +19,7 @@ For both data sets, only applications and decisions at the first instance (FI) a
 
 Three charts are created:
 
-1. A bar chart showing the top 15 countries applying for asylum in Canada over time from 2000-2020
+1. A bar chart showing the top 15 countries in applications for asylum in Canada over time from 2000-2020
 2. A line graph showing the cumulative number of asylum applications in Canada over time from 2000-2020
 3. A line graph showing the application recognition rate in Canada over time from 2000-2020
 
@@ -53,3 +56,7 @@ Thanks to UNHCR for making the data freely and easily accessible.
 Thanks also to York University, the Centre for Refugee Studies, and Osgoode Hall Law School for hosting the Refugee Law Laboratory, and this reseach. 
 
 This research was funded in part by the Social Sciences and Humanities Research Council of Canada.
+
+# Refugee Law Lab
+
+To learn more about the Refugee Law Laboratory, please visit: https://refugeelab.ca
