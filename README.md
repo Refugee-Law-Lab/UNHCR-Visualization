@@ -5,6 +5,7 @@ This repository contains python code to create visualizations of asylum applicat
 # Asylum Applications in Canada 
 
 Jupyter Notebook: asylum-applications-canada.ipynb
+
 Python: asylum-applications-canada.py
 
 This code creates mp4 videos containing animated graphs from asylum applications in Canada. 
