@@ -1,6 +1,6 @@
 # UNHCR-Visualization
 
-This repository contains python code to create visualizations of asylum application data, using data ulled from the United Nations High Commission for Refugees API. For details, see: https://api.unhcr.org/docs/refugee-statistics.html.
+This repository contains python code to create visualizations of asylum application data, using data pulled from the United Nations High Commission for Refugees API. For details, see: https://api.unhcr.org/docs/refugee-statistics.html.
 
 # Asylum Applications in Canada 
 
